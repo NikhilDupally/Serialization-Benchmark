@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+package sampledata;
+
+option java_package = "com.example.protobuf";
+option java_outer_classname = "SampleDataProto";
+
+message SampleData {
+    string name = 1;
+    int32 id = 2;
+    bool active = 3;
+}

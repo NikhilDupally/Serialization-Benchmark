@@ -1,0 +1,9 @@
+namespace sampledata;
+
+table SampleDataFlatBuffer {
+  name: string;
+  id: int;
+  active: bool;
+}
+
+root_type SampleDataFlatBuffer;
