@@ -47,7 +47,7 @@
         <dependency>
             <groupId>com.google.flatbuffers</groupId>
             <artifactId>flatbuffers-java</artifactId>
-            <version>23.5.26</version>
+            <version>25.2.10</version>
         </dependency>
 
         <!-- JFreeChart for Visualizations -->
@@ -87,7 +87,7 @@
             <dependency>
                 <groupId>com.google.flatbuffers</groupId>
                 <artifactId>flatbuffers-java</artifactId>
-                <version>23.5.26</version>
+                <version>25.2.10</version>
             </dependency>
         <!-- SLF4J & Logback for Logging -->
         <dependency>
